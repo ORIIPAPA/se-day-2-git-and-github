@@ -35,10 +35,10 @@ A README file acts as a guide to your project. A well-written README should incl
 
 A strong README fosters collaboration by helping new developers quickly understand the project.
 
----
+
 
 ## What are the differences between a public repository and a private repository on GitHub?
-```
+
 | Feature           | Public Repository       | Private Repository     |
 |------------------|------------------------|------------------------|
 | Visibility       | Open to everyone       | Restricted to selected users |
@@ -75,7 +75,7 @@ Branches allow developers to work on new features without affecting the main cod
 
 Branches prevent conflicts and facilitate collaboration.
 
----
+
 
 ## What is the role of pull requests in the GitHub workflow?
 Pull requests (PRs) are used to propose and review changes before merging them.
@@ -95,7 +95,7 @@ PRs help maintain code quality and encourage peer review.
 
 Forking is useful for contributing to open-source projects without modifying the original repo.
 
----
+
 
 ## How do issues and project boards help manage tasks on GitHub?
 GitHub Issues help track bugs and tasks, while project boards organize work visually.
@@ -107,7 +107,7 @@ GitHub Issues help track bugs and tasks, while project boards organize work visu
 
 These tools improve teamwork and streamline project management.
 
----
+
 
 ## What are common challenges and best practices when using GitHub for version control?
 ### Challenges:
